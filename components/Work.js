@@ -1,4 +1,4 @@
 const Work = () => {
-  return <section id="work">WORK</section>;
+  return <section id="work">Work</section>;
 };
 export default Work;
